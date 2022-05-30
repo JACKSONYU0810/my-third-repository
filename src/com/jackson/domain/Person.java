@@ -16,6 +16,7 @@ public class Person {
     private String address;
     private String aaa;
     private String bbb;
+    private String ccc;
 
 
 }
