@@ -15,6 +15,7 @@ public class Person {
     private char sex;
     private String address;
     private String aaa;
+    private String ddd;
 
 
 }
