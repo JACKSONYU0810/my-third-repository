@@ -12,6 +12,5 @@ public class Person {
     private Integer id;
     private String name;
     private String phone;
-    private String address;
 
 }
