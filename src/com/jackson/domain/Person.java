@@ -19,6 +19,8 @@ public class Person {
     private String ccc;
     private String ddd;
     private String bran11;
+    private String bran22;
 
+   
 
 }
